@@ -1,0 +1,16 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  sloth-pipe:
+    specifier: 0.0.7
+    version: 0.0.7
+
+packages:
+
+  /sloth-pipe@0.0.7:
+    resolution: {integrity: sha512-ykEEHohN/FnksShMn0U5PXfb/nfiB8zEVMqii8KN0ch4hZnKJYmkSym0XuB9ydB6UThmA5HeHjsFX3J3eR77Lg==}
+    dev: false
